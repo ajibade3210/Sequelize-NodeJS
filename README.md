@@ -234,7 +234,7 @@ To Create a One to One with Sequelize use
 - hasOne()
   .parentTablehasOne(childTable)
 
--belongTo()
+- belongTo()
 .childTable.belongTo(parentTable))
 
 ```
